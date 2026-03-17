@@ -33,5 +33,5 @@ The server will start on:
 ```
 http://localhost:3000
 ```
-
+The project will take you through 3 pages that you can access with loops back to one another it is not a pretty design but the functionality is there to access the webpage server.
 ---
